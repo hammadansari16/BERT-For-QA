@@ -1,4 +1,4 @@
-# BERT-For-QA
+# BERT Fine Tuning-For-QA
 
 Overview
 BERT (Bidirectional Encoder Representations from Transformers) is a powerful tool for question answering tasks due to its ability to understand contextual information in input text. This project focuses on fine-tuning a BERT model for question answering using a limited dataset for illustration purposes.
